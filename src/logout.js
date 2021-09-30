@@ -1,0 +1,8 @@
+const Logout = () => {
+    return (
+          <h1>hello</h1>
+      );
+}
+ 
+export default Logout;
+ 

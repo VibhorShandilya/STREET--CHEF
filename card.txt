@@ -1,0 +1,387 @@
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+<div class="card">
+    
+      <div class = "img">
+      <img src = "https://bit.ly/3mz7prT" class = "size"></img>
+        <p class="container">GATTA MASALA </p>
+        <p class="container">Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+       
+    
+ 
+      </div>
+
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+<div class="card">
+    
+      <div class = "img">
+      <img src = "https://bit.ly/3mz7prT" class = "size"></img>
+        <p class="container">GATTA MASALA </p>
+        <p class="container">Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+       
+    
+ 
+      </div>
+
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+<div class="card">
+    
+      <div class = "img">
+      <img src = "https://bit.ly/3mz7prT" class = "size"></img>
+        <p class="container">GATTA MASALA </p>
+        <p class="container">Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+       
+    
+ 
+      </div>
+
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+<div class="card">
+    
+      <div class = "img">
+      <img src = "https://bit.ly/3mz7prT" class = "size"></img>
+        <p class="container">GATTA MASALA </p>
+        <p class="container">Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+       
+    
+ 
+      </div>
+
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+<div class="card">
+    
+      <div class = "img">
+      <img src = "https://bit.ly/3mz7prT" class = "size"></img>
+        <p class="container">GATTA MASALA </p>
+        <p class="container">Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+       
+    
+ 
+      </div>
+
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card2">
+      <div class="container2">
+        <p>GATTA MASALA </p>
+        <p>Gatta or gatte (plural) are gram flour (besan) roundels which are added to a curd based gravy. There are many variations of making Rajasthani gatte ki sabz</p> 
+      </div>
+      <div class = "IBD" >
+    <button class = "IB">Click me</button>
+</div>
+</div>
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 50%;
+    color: rgb(238, 237, 236);
+    background-color: black;
+   
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    margin-left: 50%;
+  }
+.size
+{
+width: 50%;
+
+}
+
+
+.IBD{
+  padding-left: 55px;
+  padding-bottom: 10px;
+}
+
+  .IB
+  {
+    
+    border-radius: 12px;
+    width: 25%;
+    height: 20px;
+    background-color: chartreuse;
+
+  }
+  #img{
+    padding-right: 70%;
+  }
+  
+  .size
+  {
+    width: 10%;
+    
+  }
+
+
+
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 50%;
+    margin-left: 50%;
+    color: rgb(238, 237, 236);
+    background-color: black;
+  }
+  
+  .card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container2 {
+    padding: 2px 16px;
+    margin-left: 50%;
+  }
+.IBD2{
+  padding-left: 55px;
+  padding-bottom: 10px;
+}
+
+  .IB2
+  {
+    
+    border-radius: 12px;
+    width: 25%;
+    height: 20px;
+    background-color: chartreuse;
+
+  }
+  #img2{
+    padding-right: 70%;
+  }
+  
+  .size2
+  {
+    width: 10%;
+    
+  }
+  nav
+  .nav {
+  height: 80px;
+  width: 100%;
+  background-color: #020202;
+  position: relative;
+}
+
+.nav > .nav-header {
+  display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 25px 10px 10px 10px;
+  font-family: Cursive;
+}
+
+.nav > .nav-btn {
+  display: none;
+}
+
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+}
+
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 30px 32px 13px 10px;
+  text-decoration :solid;
+  color: #efefef;
+  font-family: Times New Roman, serif;
+}
+
+.nav > .nav-links > a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nav > #nav-check {
+  display: none;
+}
+
+@media (max-width:600px) {
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #eee;
+  }
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 70px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
+
+
+
+
+ <button onClick={done}>
+  Activate Lasers
+</button>

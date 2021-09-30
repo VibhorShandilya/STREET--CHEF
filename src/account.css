@@ -1,0 +1,239 @@
+
+.main {
+    box-sizing: border-box;
+    color: #fff;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana,
+      "sans-serif";
+      background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,167,222,1) 0%, rgba(163,104,200,1) 8%, rgba(146,50,201,0.7287289915966386) 74%, rgba(162,16,205,1) 100%);}
+  .bcolor{
+    background: rgb(2,0,36);
+    
+  }
+  
+  html,
+  body {
+
+    margin: 0;
+    padding: 0;
+   
+    
+  }
+  
+  :focus {
+    outline: 0;
+  }
+  
+  .wrapper {
+    margin: 100px auto 0;
+    width: 70%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  form {
+    width: 100%;
+    margin: 0;
+  }
+  
+  form * {
+    font-size: 20px;
+    letter-spacing: 0.075em;
+    font-weight: 300;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  form .field1 {
+    width: 100%;
+    position: relative;
+    margin-bottom: 15px;
+  }
+  
+  form .field1 label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+    width: 100%;
+    height: 64px;
+    transition:  333ms ease-in-out;
+    text-align: center;
+    padding: 18px 0;
+  }
+  
+  form .field1 input[type="text"],
+  form .field1 textarea {
+    border: none;
+    width: 100%;
+    height: 64px;
+    margin: 0;
+    padding-left: 19.5%;
+    color: #313a3d;
+  }
+  
+  form #msg {
+    height: 64px;
+    resize: none;
+    transition: all 333ms ease-in-out;
+    padding-top: 18px;
+  }
+  form textarea:focus#msg,
+  form textarea:not(:placeholder-shown)#msg {
+    height: 166px;
+  }
+  form input[type="text"]:focus + label,
+  form input[type="text"]:not(:placeholder-shown) + label,
+  form textarea:focus + label,
+  form textarea:not(:placeholder-shown) + label,
+  form .field1:hover label {
+    width: 18%;
+  }
+  form input[type="submit"] {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+    -webkit-appearance: none;
+    border: none;
+    position: relative;
+    padding: 13px 50px;
+    transition: all 0.3s ease-in-out;
+  }
+  form input[type="submit"]:hover,
+  form input[type="submit"]:focus {
+    background: #121a83;  
+  }
+  
+
+
+
+  .btn {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+color: white;
+ padding: 10px 20px 10px 20px;
+ margin-left: 420px;
+ margin-bottom: 30%;
+}
+
+
+
+
+
+  
+  @media (max-width:767px)
+  {
+
+    .main {
+      box-sizing: border-box;
+      color: #fff;
+      font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana,
+        "sans-serif";
+        
+    }
+    .bcolor{
+      background-color: black;
+    }
+    
+    html,
+    body {
+   
+      margin: 0;
+      padding: 0;
+     
+      
+    }
+    
+    :focus {
+      outline: 0;
+    }
+    
+    .wrapper {
+      margin: 100px auto 0;
+      width: 70%;
+      width: 95%;
+      display: flex;
+      justify-content: center;
+    }
+    
+    form {
+      width: 100%;
+      margin: 0;
+    }
+    
+    form * {
+      font-size: 10px;
+      letter-spacing: 0.075em;
+      font-weight: 300;
+      text-transform: uppercase;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    
+    form .field1 {
+      width: 100%;
+      position: relative;
+      margin-bottom: 15px;
+    }
+    
+    form .field1 label {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+      width: 100%;
+      height: 64px;
+      transition: width 333ms ease-in-out;
+      text-align: center;
+      padding: 18px 0;
+    }
+    
+    form .field1 input[type="text"],
+    form .field1 textarea {
+      border: none;
+      width: 100%;
+      height: 64px;
+      margin: 0;
+      padding-left: 19.5%;
+      color: #313a3d;
+    }
+    
+    form #msg {
+      height: 64px;
+      resize: none;
+      transition: all 333ms ease-in-out;
+      padding-top: 18px;
+    }
+    form textarea:focus#msg,
+    form textarea:not(:placeholder-shown)#msg {
+      height: 166px;
+    }
+    form input[type="text"]:focus + label,
+    form input[type="text"]:not(:placeholder-shown) + label,
+    form textarea:focus + label,
+    form textarea:not(:placeholder-shown) + label,
+    form .field1:hover label {
+      width: 18%;
+    }
+    form1 input[type="submit"] {
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+      -webkit-appearance: none;
+      border: none;
+      position: relative;
+      padding: 13px 50px;
+      transition: all 0.3s ease-in-out;
+    }
+    .btn {
+        background: rgb(2,0,36);
+        background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%);
+    color: white;
+    padding: 10px 20px 10px 20px;
+ margin-left: 120px;
+
+    }
+
+  }

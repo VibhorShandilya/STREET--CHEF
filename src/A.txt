@@ -1,0 +1,18 @@
+
+
+
+
+---------------------------------------
+  // function save()
+        // {
+        //     var a = document.getElementById("NAME").value;
+        //     localStorage.setItem("data",a);
+
+        // },
+        // function show()
+        // {
+        //   var b = localStorage.getItem("data");
+        //   document.getElementById("NAME").value=b;
+        // }  ,
+        // {show()},
+<>
